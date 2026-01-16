@@ -9,9 +9,10 @@
     "admob_bnr": "ca-app-pub-3940256099942544/6300978111",
     "admob_apn": "ca-app-pub-3940256099942544/9257395921",
     "admob_reward": "ca-app-pub-3940256099942544/5224354917",
-    "admob_intercounter": 2,
-    "admob_interval_ads": 2
+    "admob_intercounter": 3,
+    "admob_interval_ads": 1
   }
 }
+
 
 
