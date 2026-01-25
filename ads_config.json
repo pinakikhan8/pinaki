@@ -4,15 +4,16 @@
   "data": {
     "admob_show": true,
     "byPass": false,
-    "admob_inter": "/21753324030,23334887863/com.loantools.app_Interstitial",
-    "admob_ntv": "/21753324030,23334887863/com.loantools.app_Native",
-    "admob_bnr": "/21753324030,23334887863/com.loantools.app_Banner",
-    "admob_apn": "/21753324030,23334887863/com.loantools.app_AppOpen",
-    "admob_reward": "/21753324030,23334887863/com.loantools.app_Rewarded",
+    "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+    "admob_ntv": "ca-app-pub-3940256099942544/2247696110",
+    "admob_bnr": "ca-app-pub-3940256099942544/6300978111",
+    "admob_apn": "ca-app-pub-3940256099942544/9257395921",
+    "admob_reward": "ca-app-pub-3940256099942544/5224354917",
     "admob_intercounter": 3,
     "admob_interval_ads": 2
   }
 }
+
 
 
 
