@@ -9,10 +9,12 @@
     "admob_bnr": "/21753324030,23334887863/com.loantools.app_Banner",
     "admob_apn": "/21753324030,23334887863/com.loantools.app_AppOpen",
     "admob_reward": "/21753324030,23334887863/com.loantools.app_Rewarded",
+    "isShowUrlAds": true,
     "admob_intercounter": 3,
     "admob_interval_ads": 2
   }
 }
+
 
 
 
