@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Success",
+    "data": {
+        "g_banner": [
+            "/21753324030,23334887863/com.loantools.app_Banner"
+        ],
+        "g_int": [
+            "/21753324030,23334887863/com.loantools.app_Interstitial"
+        ],
+        "g_native": [
+            "/21753324030,23334887863/com.loantools.app_Native"
+        ],
+        "g_open": [
+            "/21753324030,23334887863/com.loantools.app_AppOpen"
+        ],
+        "fb_banner": [],
+        "fb_int": [],
+        "fb_native": [],
+        "fb_native_banner": [],
+        "mid_fb_banner": [],
+        "mid_fb_int": [],
+        "mid_fb_native": [],
+        "mid_fb_native_banner": [],
+        "double_ad_status": false,
+        "ads_status": true,
+        "splash_ads_status": false,
+        "is_facebook_first": false,
+        "is_mid": true,
+        "by_pass": true,
+        "ads_count": 1,
+        "backword_ads_count": 1,
+        "streaming_video_api": "https://rajanikhana.github.io/mical/all-video-category.json",
+        "streaming_live_api": "https://rajanikhana.github.io/mical/video-category.json",
+        "in_video_ads_time": 30,
+        "reels_videos": "https://rajanikhana.github.io/mical/all-reels.json",
+        "reels_videos_mix": "https://rajanikhana.github.io/mical/mix-reels.json",
+        "reels_ad_counts": 3,
+        "website_ad_status": false,
+        "website_ad_count": 50,
+        "website_ad_list": [
+            "https://earnonline1045.gamesdonut.com"
+        ],
+        "live_video_api": "https://stockomarket.com/apps/fakecall/",
+        "live_video_min": 1,
+        "live_video_max": 66,
+        "force_update": false,
+        "force_update_url": "",
+        "user": "username1",
+        "pass": "password1",
+        "wsRoom": "ws://142.93.223.217:8081",
+        "turn": "turn:139.59.2.135:3478",
+        "privacy_policy": "https://doc-hosting.flycricket.io/loan-tools-privacy-policy/3d62cdfc-d0b8-420f-9868-cd59ef62d7a6/privacy"
+    }
+}
