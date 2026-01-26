@@ -24,7 +24,7 @@
         "mid_fb_native_banner": [],
         "double_ad_status": false,
         "ads_status": true,
-        "splash_ads_status": false,
+        "splash_ads_status": true,
         "is_facebook_first": false,
         "is_mid": true,
         "by_pass": true,
