@@ -2,7 +2,9 @@
     "success": true,
     "message": "Success",
     "data": {
-        "g_banner": [],
+        "g_banner": [
+            "ca-app-pub-3940256099942544/6300978111"
+        ],
         "g_int": [
             "ca-app-pub-3940256099942544/1033173712"
         ],
