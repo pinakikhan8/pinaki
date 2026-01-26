@@ -3,16 +3,16 @@
     "message": "Success",
     "data": {
         "g_banner": [
-            "/21753324030,23334887863/com.loantools.app_Banner"
+            "ca-app-pub-3940256099942544/6300978111"
         ],
         "g_int": [
-            "/21753324030,23334887863/com.loantools.app_Interstitial"
+            "ca-app-pub-3940256099942544/1033173712"
         ],
         "g_native": [
-            "/21753324030,23334887863/com.loantools.app_Native"
+            "ca-app-pub-3940256099942544/2247696110"
         ],
         "g_open": [
-            "/21753324030,23334887863/com.loantools.app_AppOpen"
+            "ca-app-pub-3940256099942544/9257395921"
         ],
         "fb_banner": [],
         "fb_int": [],
